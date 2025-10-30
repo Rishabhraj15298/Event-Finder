@@ -6,6 +6,7 @@ Evently is a clean and modern full-stack web application for finding and managin
 
 * **Frontend Demo:** [https://event-finder-o8ng.onrender.com](https://event-finder-o8ng.onrender.com)
 * **Backend API:** [https://event-finder-backend-cdky.onrender.com](https://event-finder-backend-cdky.onrender.com)
+* **Video Walkthrough:**[https://drive.google.com/file/d/1OmyKpX7M54hWf3k5G5W4SBmjrA46D9Uk/view?usp=drive_link](https://drive.google.com/file/d/1OmyKpX7M54hWf3k5G5W4SBmjrA46D9Uk/view?usp=drive_link)
 
 
 
